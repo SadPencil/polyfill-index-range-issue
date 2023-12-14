@@ -1,3 +1,5 @@
+Note: fixed in https://github.com/SimonCropp/Polyfill/issues/115. Archived.
+
 Build this solution.
 ```cmd
 dotnet build
